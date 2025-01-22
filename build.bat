@@ -1,0 +1,3 @@
+echo Building the project...
+REM Add your build commnads here
+mvn clean install
